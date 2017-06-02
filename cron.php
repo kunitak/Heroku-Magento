@@ -79,3 +79,4 @@ try {
     Mage::printException($e);
     exit(1);
 }
+
